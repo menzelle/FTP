@@ -1,0 +1,7 @@
+C:\Users\mj3\source\repos\ftpDELETEME\ftpDELETEME\bin\Debug\ftpDELETEME.exe.config
+C:\Users\mj3\source\repos\ftpDELETEME\ftpDELETEME\bin\Debug\ftpDELETEME.exe
+C:\Users\mj3\source\repos\ftpDELETEME\ftpDELETEME\bin\Debug\ftpDELETEME.pdb
+C:\Users\mj3\source\repos\ftpDELETEME\ftpDELETEME\obj\Debug\ftpDELETEME.csprojAssemblyReference.cache
+C:\Users\mj3\source\repos\ftpDELETEME\ftpDELETEME\obj\Debug\ftpDELETEME.csproj.CoreCompileInputs.cache
+C:\Users\mj3\source\repos\ftpDELETEME\ftpDELETEME\obj\Debug\ftpDELETEME.exe
+C:\Users\mj3\source\repos\ftpDELETEME\ftpDELETEME\obj\Debug\ftpDELETEME.pdb
